@@ -14,7 +14,7 @@ while True:
     what would you like to do? """)) 
     
     if user_input == 0:
-        print("thanks you are exit")
+        print("thank you! you are exit")
         break
     elif user_input == 1:   
         while True:
