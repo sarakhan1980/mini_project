@@ -1,4 +1,3 @@
-
 ----------Here is your Menu option----------
 
 Roasted Cod Loin
@@ -7,4 +6,5 @@ Baked Beans
 Susages
 Smoked Haddock
 Oven Baked Chicken
-Salad
+Baked Beans
+Fish and Chips
